@@ -34,6 +34,7 @@ export const OrderBtn = styled.button`
 	background: #75e169;
 	border-radius: 10px;
 	padding: 17px 123px 17px 123px;
+	margin-bottom: 51px;
 
 	font-family: 'Montserrat';
 	font-style: normal;

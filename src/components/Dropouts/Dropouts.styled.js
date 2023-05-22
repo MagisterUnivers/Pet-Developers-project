@@ -8,6 +8,7 @@ export const DropoutsDiv = styled.div`
 	display: flex;
 	flex-direction: column;
 	gap: 10px;
+	margin-top: 17px;
 `;
 
 export const Title = styled.div`
@@ -30,6 +31,9 @@ export const GreenElipce = styled.div`
 
 export const DropoutList = styled.ul`
 	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	margin-bottom: 30px;
 `;
 
 export const DropoutItem = styled.li`
