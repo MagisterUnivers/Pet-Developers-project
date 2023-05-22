@@ -1,3 +1,4 @@
+import Dropouts from './components/Dropouts/Dropouts';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
 
@@ -6,6 +7,7 @@ function App() {
 		<>
 			<Header />
 			<Hero />
+			<Dropouts />
 		</>
 	);
 }
